@@ -1,6 +1,6 @@
 def add(x,y,z):
     pass
-def substrat(x,y):
+def substrat(x,y,z):
     pass
 def multiply(x,y):
     return x*y
