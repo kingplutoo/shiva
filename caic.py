@@ -1,4 +1,4 @@
-def add(x,y):
+def add(x,y,z):
     pass
 def substrat(x,y):
     pass
